@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -g   CMakeFiles/threadPool.dir/main.cpp.o CMakeFiles/threadPool.dir/threadpoll.cpp.o  -o ../../bin/threadPool -lpthread 

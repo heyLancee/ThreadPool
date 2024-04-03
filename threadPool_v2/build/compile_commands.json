@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/heylance/code/threadPool_v2/build/src",
+  "command": "/usr/bin/g++   -I/home/heylance/code/threadPool_v2/include -I/home/heylance/code/threadPool_v2/thirdparty  -g -g   -o CMakeFiles/threadPool.dir/main.cpp.o -c /home/heylance/code/threadPool_v2/src/main.cpp",
+  "file": "/home/heylance/code/threadPool_v2/src/main.cpp"
+},
+{
+  "directory": "/home/heylance/code/threadPool_v2/build/src",
+  "command": "/usr/bin/g++   -I/home/heylance/code/threadPool_v2/include -I/home/heylance/code/threadPool_v2/thirdparty  -g -g   -o CMakeFiles/threadPool.dir/threadpoll.cpp.o -c /home/heylance/code/threadPool_v2/src/threadpoll.cpp",
+  "file": "/home/heylance/code/threadPool_v2/src/threadpoll.cpp"
+},
+{
+  "directory": "/home/heylance/code/threadPool_v2/build/src",
+  "command": "/usr/bin/g++  -Dso_EXPORTS -I/home/heylance/code/threadPool_v2/include -I/home/heylance/code/threadPool_v2/thirdparty  -g -g -fPIC   -o CMakeFiles/so.dir/main.cpp.o -c /home/heylance/code/threadPool_v2/src/main.cpp",
+  "file": "/home/heylance/code/threadPool_v2/src/main.cpp"
+},
+{
+  "directory": "/home/heylance/code/threadPool_v2/build/src",
+  "command": "/usr/bin/g++  -Dso_EXPORTS -I/home/heylance/code/threadPool_v2/include -I/home/heylance/code/threadPool_v2/thirdparty  -g -g -fPIC   -o CMakeFiles/so.dir/threadpoll.cpp.o -c /home/heylance/code/threadPool_v2/src/threadpoll.cpp",
+  "file": "/home/heylance/code/threadPool_v2/src/threadpoll.cpp"
+},
+{
+  "directory": "/home/heylance/code/threadPool_v2/build/src",
+  "command": "/usr/bin/g++   -I/home/heylance/code/threadPool_v2/include -I/home/heylance/code/threadPool_v2/thirdparty  -g -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/heylance/code/threadPool_v2/src/main.cpp",
+  "file": "/home/heylance/code/threadPool_v2/src/main.cpp"
+},
+{
+  "directory": "/home/heylance/code/threadPool_v2/build/src",
+  "command": "/usr/bin/g++   -I/home/heylance/code/threadPool_v2/include -I/home/heylance/code/threadPool_v2/thirdparty  -g -g   -o CMakeFiles/a.dir/threadpoll.cpp.o -c /home/heylance/code/threadPool_v2/src/threadpoll.cpp",
+  "file": "/home/heylance/code/threadPool_v2/src/threadpoll.cpp"
+}
+]
